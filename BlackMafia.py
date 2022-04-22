@@ -24,7 +24,7 @@ def keluar():
 	os.sys.exit()
 
 
-def acak(b):
+def shah khan(b):
     w = 'ahtdzjc'
     d = ''
     for i in x:
@@ -32,7 +32,7 @@ def acak(b):
     return cetak(d)
 
 
-def cetak(b):
+def shah khan(b):
     w = 'ahtdzjc'
     for i in w:
         j = w.index(i)
@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.07)
 
-#Dev:love_hacker
+#Dev: shah hacker
 ##### LOGO #####
 logo = """
        \033[1;91m:▒▒▒▒███▒███▒███▒███▒▒▒▒▒▒▒▒▒▒:
@@ -104,8 +104,8 @@ jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
 print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin BlackMafia\033[1;95m♡╰──────────•◈•──────────╯♡"
 
-CorrectUsername = "BlackMafia"
-CorrectPassword = "lovehacker"
+CorrectUsername = "Shah hacker"
+CorrectPassword = "khanhacker"
 
 loop = 'true'
 while (loop == 'true'):
